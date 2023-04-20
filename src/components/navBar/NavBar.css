@@ -1,0 +1,11 @@
+.customNavBarBrand{
+    display: flex;
+    align-items: center;
+}
+.title{
+    font-family: 'Merriweather', serif;
+}
+
+.customfont{
+    font-size: 20px;
+}
